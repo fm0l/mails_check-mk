@@ -1,0 +1,10 @@
+[server]
+hostname = imap.domain.tld
+port = 993
+
+[mail]
+directory = INBOX/IT/SPAM
+
+[filters]
+sender = SENDER
+subject = SUBJECT
